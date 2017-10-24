@@ -1,88 +1,41 @@
 # swi1-2017-odd-git
 
-Main goal is to add a new text file and make small change in README.md
+Everybody open the file named after their github login.
 
-* Create a new branch 
+Read the instructions carefully please :).
 
-* Switch to a new branch
+Every instruction should be one commit (this time).
 
-* Change your name in README.md to your GitHub nick and add a text file that has your school login as name and contains some random line
+  * so your first commit would just be deleting a line
+  * and your second commit would change the other line
+  * and so on :)
 
-* Try those two commands `git diff` `git status` and write what they do in two sentences to your text file. 
+---
 
-* Add changed files 
+After you're done there..
 
-  * `git add [file's path]`(may add multiple files at once) or `git add -A` (adds all changed files)
+1. Create a PR.
 
-* Commit changes
+1. You should have a PR with 8 commits, **not** on your master branch - if not, try again :).
 
-  * `git commit -m "commit message"`
+1. tell us - wait for a conflict
 
-* Push your branch
+1. update your branch & resolve conflicts
 
-  * `git push origin [branch's name]`
+1. reorder commits so that food-related commits are together
 
-* Create a PR
+1. squash food-related commits into one
 
-  * Go to [upstream repo](https://github.com/RoadToSoftwareFactory/swi1-2017-odd-git) 
+1. delete commit with your favorite color
 
+1. rename commit with your favorite season to something in UPERCASE
 
+1. edit commit with your favority city so it's Helsinki 
 
-1.	Bajtek Tomáš, Bc.
+1. when done mention one of instructors in a comment (if you are the first one to do everything correctly you will get a GitHub code for free t-shirt via Gitter)
 
+Everyone gets a sticker :octocat:
 
-2.	Beťko David, Bc.
+---
 
-
-3.	Cocuľa Maroš
-
-
-4.	Dorušková Marie, Bc.
-
-
-5.	Durák Martin
-
-
-6.	Hlavatý Lukáš, Bc.
-
-
-7.	Honek Tomáš, Bc.
-
-
-8.	Jakl Roman, Bc.
-
-
-9.	Kaplanová Lucie, Bc.
-
-
-10.	Kubišta Jakub, Bc.
-
-
-11.	Kučarová Žaneta, Bc.
-
-
-12.	Laško Tomáš, Bc.
-
-
-13.	Lerch Aleš, Bc.
-
-
-14.	Neckař Dušan, Bc.
-
-
-15.	Osuský Peter, Bc.
-
-
-16.	Pinka Martin
-
-
-17.	Poľakovský Michal, Bc.
-
-
-18.	Prexta Dávid, Bc.
-
-
-19.	Šimon Karel, Bc.
-
-
-20.	Veškrna Tomáš
+What to do when you mess up: http://ohshitgit.com/ 
