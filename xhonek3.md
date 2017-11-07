@@ -5,7 +5,7 @@ New change.
 
 Your favorite fruit: banana
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: carrot 
 
